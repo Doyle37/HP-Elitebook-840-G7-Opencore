@@ -11,7 +11,7 @@ macOS Ventura on HP Elitebook 840 G7
 ## Info and Tools  💻
 
 - macOS: Ventura 13.0.1
-- OpenCore: 0.93
+- OpenCore: 0.9.3
 - Tools needed: Opencore Configutation, OCAuxiliaryTools, Hackintool, MaciASL, PlistEdit Pro, IORegistryExplorer...
 
 ## Starting points
@@ -61,7 +61,7 @@ Type | Info | Status
 :---------|:---------|:----------
 SMBIOS Settings  | With GenSMBIOS [Opencore Configutation or OCAuxiliaryTools], generate your own SMBIOS MBP16,3 |  ⚠️
 Fn keys  | Some keys are not fully functional (use menu bar instead) |  ⚠️
-Sleep/Wake  | This is a headache for most hackintoshes. Sleep/Wake works just fine with Auto-sleep or choosing Sleep from the menu, which is a much better improvement. It does not work with mere lid closing. |  ⚠️
+Sleep/Wake  | This is a headache issue for most hackintoshes. Sleep/Wake works just fine with Auto-sleep or choosing Sleep from the menu, which is a much better improvement. It still does not work with mere lid closing. |  ⚠️
 
 
 ## Credits
