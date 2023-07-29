@@ -17,7 +17,7 @@ macOS Ventura on HP Elitebook 840 G7
 ## Starting points
 
 - Short answer: Download this EFI to a USB drive
-- Long answe: [Dortania How-to](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/)
+- Long answer: [Dortania How-to](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/)
   
 ## Hardware  💻
 
