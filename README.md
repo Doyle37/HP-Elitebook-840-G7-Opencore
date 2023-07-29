@@ -5,7 +5,7 @@ macOS Ventura on HP Elitebook 840 G7
 </p>
 <h4 align="center"> No two hackingtoshes are the same! </h4>
 <p align="center">
-  HP EliteBook 840 G7 Hackintosh based on OpenCore configuration
+  HP EliteBook 840 G7 Hackintosh based on OpenCore configuration 
 </p>
 
 ## Info and Tools  💻
