@@ -12,7 +12,12 @@ macOS Ventura on HP Elitebook 840 G7
 
 - macOS: Ventura 13.0.1
 - OpenCore: 0.93
-- Tools: Opencore Configutation, OCAuxiliaryTools, Hackintool, MaciASL, PlistEdit Pro, IORegistryExplorer
+- Tools needed: Opencore Configutation, OCAuxiliaryTools, Hackintool, MaciASL, PlistEdit Pro, IORegistryExplorer...
+
+## Starting points
+
+- Short answer: Download this EFI to a USB drive
+- Long answe: [Dortania How-to](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/)
   
 ## Hardware  💻
 
