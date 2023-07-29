@@ -5,7 +5,7 @@ macOS Ventura on HP Elitebook 840 G7
 </p>
 <h4 align="center"> No two hackingtoshes are the same! </h4>
 <p align="center">
-  Hackintosh HP EliteBook 840 G7 based on OpenCore configuration
+  HP EliteBook 840 G7 Hackintosh based on OpenCore configuration
 </p>
 
 ## Info and Tools  💻
@@ -21,7 +21,7 @@ Type | Spec | Status
 Model Name      | HP Elitebook 840 G7 | ✅
 CPU              | Intel(R) Core(TM) i7-10610U CPU @ 1.80GHz (max 4.90Ghz) Comet Lake | ✅
 RAM           | 16 GB 2666 MHz DDR4 | ✅
-Internal Graphics Card | Intel® UHD Graphics 620 | ✅
+Graphics | Intel® UHD Graphics 620 | ✅
 SSD             | Intel M.2 512GB NVMe PCIe | ✅
 Wi-Fi & Bluetooth             | Intel | ✅
 Audio       | Realtek ALC285 | ✅
@@ -54,7 +54,7 @@ Fingerprint Reader   |  ❌ (None with this hackintosh type).
 
 Type | Info | Status
 :---------|:---------|:----------
-SMBIOS Settings  | With [GenSMBIOS, Opencore Configutation or OCAuxiliaryTools], generate your own SMBIOS MBP16,3 |  ⚠️
+SMBIOS Settings  | With GenSMBIOS [Opencore Configutation or OCAuxiliaryTools], generate your own SMBIOS MBP16,3 |  ⚠️
 
 ## Credits
   
