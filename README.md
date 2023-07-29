@@ -16,3 +16,7 @@ SSD             | Intel M.2 512GB NVMe PCIe | ✅
 Wi-Fi             | Intel | ✅
 Bluetooth           | Intel | ✅
 Audio       | Realtek ALC285 | ✅
+
+## Update
+
+- Current version ✅ macOS Ventura 13.0.1 &#10003;
