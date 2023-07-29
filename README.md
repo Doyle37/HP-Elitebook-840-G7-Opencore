@@ -60,7 +60,7 @@ Fn keys  | Some keys are not fully functional (use menu bar instead) |  ⚠️
 
 ## Credits
   
- - [Dortania](https://dortania.github.io): Great OpenCo source for developing OpenCore.
+ - [Dortania](https://dortania.github.io): Great OpenCore sources and tutorials for developing OpenCore and building hackintosh.
  - [Apple](https://www.apple.com) for macOS.
  - [Acidanthera](https://github.com/acidanthera) for most of the kexts.
  - And anyone else that has helped to develop and improve hackintoshing from GitHub, Reddit, InsanelyMac, Tonymacx86, EliteMacx86, Olarila, etc.
