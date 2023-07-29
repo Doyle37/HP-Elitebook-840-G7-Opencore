@@ -61,7 +61,7 @@ Type | Info | Status
 :---------|:---------|:----------
 SMBIOS Settings  | With GenSMBIOS [Opencore Configutation or OCAuxiliaryTools], generate your own SMBIOS MBP16,3 |  ⚠️
 Fn keys  | Some keys are not fully functional (use menu bar instead) |  ⚠️
-Sleep/Wake  | This is a headache for most hackintoshes. Sleep/Wake works just fine with Auto-sleep or choosing Sleep from the menu. It does not work with mere lid closing. |  ⚠️
+Sleep/Wake  | This is a headache for most hackintoshes. Sleep/Wake works just fine with Auto-sleep or choosing Sleep from the menu, which is a much better improvement. It does not work with mere lid closing. |  ⚠️
 
 
 ## Credits
